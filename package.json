@@ -1,0 +1,19 @@
+{
+  "name": "first_webapp_react",
+  "version": "1.0.0",
+  "description": "My first react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awilda/first_webapp_react.git"
+  },
+  "author": "Awilda Couverthier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awilda/first_webapp_react/issues"
+  },
+  "homepage": "https://github.com/Awilda/first_webapp_react#readme"
+}
